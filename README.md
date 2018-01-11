@@ -1,4 +1,4 @@
-# RNN_phoneme_recognition
+# RNN Phoneme Recognition
 Use recurrent neural networks for speech recognition in TIMID.
 
 CRNN is also used in this program.
