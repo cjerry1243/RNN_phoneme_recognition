@@ -1,5 +1,5 @@
 # RNN Phoneme Recognition
-Use recurrent neural networks for speech recognition in TIMID.
+Use recurrent neural networks for speech recognition in TIMIT.
 
 CRNN is also used in this program.
 
