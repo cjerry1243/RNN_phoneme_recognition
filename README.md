@@ -18,4 +18,3 @@ sh (rnn.sh/cnn.sh/best.sh) current_directory output_filename
 
 phoneme sequence will be produced in output_filename
 
-## This repository does not provide training data !!!
